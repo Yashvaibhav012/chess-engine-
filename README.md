@@ -23,7 +23,7 @@ Judgment is provided by an **evaluation module** that scores positions based on 
 
 Type these commands in your PC's terminal:
 
-1. git clone https://github.com/yashvaibhavp/chess-engine.git
+1. git clone https://github.com/yashvaibhav012/chess-engine.git
 
 2. Install Pygame: pip install pygame
 
